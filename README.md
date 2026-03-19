@@ -12,10 +12,11 @@ Alongside this cadence, I started formalising the systems around performance. Be
 
 These include:
 
-• Performance evaluation guidelines: Evaluation guidelines define how performance is assessed.
-• Core team principles: Levels define what growth looks like.
-• Design critique guidelines: Critique guidelines shape how work is discussed.
-• Product design group levels: Principles anchor behaviour.
+Product design group levels: _roles and expectations, Levels make growth tangible._
+Performance evaluation guidelines: _evaluation guidelines define how performance is assessed._
+Core team principles: _principles anchor how we behave as a team._
+Design critique guidelines:_ critique guidelines shape how work is discussed._
+Understanding team dynamics: _it help us understand how individuals operate within a larger system._
 
 Each of these solves a different layer of the same problem. Together, they create a shared language. Not just for managers, but for the entire team. This is important. Because performance should not feel like something that is “done to you”. It should feel like a system you can navigate, question, and use to grow.
 
